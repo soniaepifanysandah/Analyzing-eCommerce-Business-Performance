@@ -1,8 +1,9 @@
 # Analyzing-eCommerce-Business-Performance-with-SQL
-This is my first Mini Project after completing the data science bootcamp
 
-Tool : PostgreSQL <br>
-Programming Language : SQL
-Dataset : dataset(
+**Tool :** PostgreSQL <br>
+**Programming Language :** SQL <br>
+**Visualization Tool :** Google Data Studio <br>
+**Dataset :** dataset(
 
+## Introduction
 
