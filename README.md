@@ -14,7 +14,11 @@ Mengumpulkan insight dari analisis dan visualisasi terkait :
 3. Annual Payment Type Usage
 
 ## Data Preparation
-
+1. Membuat database menggunakan pgAdmin.
+2. Membuat tabel menggunakan statement `CREATE TABLE`.
+3. Melakukan import data csv ke dalam database.
+4. Menentukan Primary Key dan Foreign Key menggunakan statement `ALTER TABLE`.
+5. Membuat dan export ERD (Entity Relationship Diagram).
 
 
 
