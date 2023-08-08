@@ -21,5 +21,10 @@ Mengumpulkan insight dari analisis dan visualisasi terkait :
 5. Membuat dan export ERD (Entity Relationship Diagram).
 
 
+## Data Analysis
+### 1. Annual Customer Activity Growth
+   
+
+
 
 
