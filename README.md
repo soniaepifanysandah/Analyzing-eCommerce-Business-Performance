@@ -32,19 +32,19 @@ Mengumpulkan insight dari analisis dan visualisasi terkait :
 Pertumbuhan aktivitas customer pada perusahaan eCommerce dapat dianalisis dari Monthly Active User (MAU), customer baru, customer yang melakukan repeat order, dan rata-rata order yang dilakukan oleh customer setiap tahun.
 
 <p align="center">
-   <img src="MAU dan New Customer.png" width = 600 px alt="grafik1">
+   <img src="picture/MAU dan New Customer.png" width = 600 px alt="grafik1">
 </p>
 
 Pada tahun 2016 memiliki nilai yang rendah dibandingkan dengan 2017 dan 2018. Hal ini dikarenakan data yang tersedia pada tahun 2016 dimulai pada bulan September, sehingga menyebabkan hasil analisis di tahun 2016 memiliki perbedaan yang jauh dibandingkan dengan 2017 dan 2018. Berdasarkan grafik diatas, terlihat bahwa **customer aktif bulanan (MAU) dan jumlah customer baru mengalami peningkatan**.
 
 <p align="center">
-   <img src="Repeat Customer.png" width = 600 px alt="grafik2">
+   <img src="picture/Repeat Customer.png" width = 600 px alt="grafik2">
 </p>
 
 Pada tahun 2017 mengalami peningkatan yang drastis, hal ini jelas dikarenakan pada tahun 2016 data yang dimiliki hanya dari bulan September. Berbeda dengan MAU dan customer baru, **jumlah customer yang repeat order mengalami penurunan**.
 
 <p align="center">
-   <img src="Frekuensi Order.png" width = 600 px alt="grafik3">
+   <img src="picture/Frekuensi Order.png" width = 600 px alt="grafik3">
 </p>
 
 Dari hasil analisa di atas, dapat dilihat bahwa sepanjang tahun 2016-2018 customer hanya melakukan order sebanyak 1 kali, artinya customer tidak melakukan repeat order.
