@@ -39,4 +39,5 @@ Pada tahun 2016 memiliki nilai yang rendah dibandingkan dengan 2017 dan 2018. Ha
    <img src="Repeat Customer.png" width = 600 px alt="grafik2">
 </p>
 
+Pada tahun 2017 mengalami peningkatan yang drastis, hal ini jelas dikarenakan pada tahun 2016 data yang dimiliki hanya dari bulan September. Berbeda dengan MAU dan customer baru, jumlah customer yang repeat order mengalami penurunan.
 
