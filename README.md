@@ -51,7 +51,31 @@ Dari hasil analisa di atas, dapat dilihat bahwa sepanjang tahun 2016-2018 custom
 
 ### 2. Annual Product Category Quality
 
-Performa bisnis eCommerce berkaitan erat dengan kualitas produk dan berhubungan juga dengan pendapatan/revenue perusahaan.
+Performa bisnis eCommerce berkaitan erat dengan kualitas produk dan juga dengan pendapatan/revenue perusahaan. Kualitas produk dapat dianalisis dari total revenue, total cancelled order, product dengan revenue tertinggi, dan product yang paling banyak di cancel.
+
+<p align="center">
+   <img src="picture/Total Revenue.png" width = 600 px alt="grafik4">
+</p>
+
+**Total revenue terus mengalami peningkatan** selama tahun 2016-2018.
+
+<p align="center">
+   <img src="picture/Total Cancel Order.png" width = 600 px alt="grafik5">
+</p>
+
+**Total cancel order meningkat** selama tahun 2016-2018.
+
+<p align="center">
+   <img src="picture/Top Product by Revenue.png" width = 600 px alt="grafik6">
+</p>
+
+Kategori produk yang memberikan revenue terbanyak di setiap tahunnya berbeda-beda. Revenue yang dihasilkan oleh top product mengalami peningkatan setiap tahunnya dan tahun 2018 merupakan revenue tertinggi yang dihasilkan oleh top product, yaitu oleh product Health Beauty.
+
+<p align="center">
+   <img src="picture/Most Cancelled Product.png" width = 600 px alt="grafik7">
+</p>
+
+Kategori produk yang mengalami cancel terbanyak di setiap tahunnya berbeda-beda. Cancel product terbanyak terjadi pada tahun 2018 dengan kategori product Health Beauty.
 
 
 
