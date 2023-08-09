@@ -77,6 +77,8 @@ Kategori produk yang memberikan revenue terbanyak di setiap tahunnya berbeda-bed
 
 Kategori produk yang mengalami cancel terbanyak di setiap tahunnya berbeda-beda. Cancel product terbanyak terjadi pada tahun 2018 dengan kategori product Health Beauty.
 
+### 3. Annual Payment Type Usage
+
 
 
 
