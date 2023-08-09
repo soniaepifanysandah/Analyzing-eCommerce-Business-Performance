@@ -22,7 +22,7 @@ Mengumpulkan insight dari analisis dan visualisasi terkait :
 
 **Hasil ERD:**
 <p align="center">
-   <img src="ERD.png" alt="gambarERD">
+   <img src="ERD_pic.png" alt="gambarERD">
 </p>
 
 
