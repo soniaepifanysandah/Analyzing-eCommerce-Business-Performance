@@ -20,6 +20,11 @@ Mengumpulkan insight dari analisis dan visualisasi terkait :
 4. Menentukan Primary Key dan Foreign Key menggunakan statement `ALTER TABLE`.
 5. Membuat dan export ERD (Entity Relationship Diagram).
 
+**Hasil ERD:**
+<p align="center">
+   <img src="ERD.png" alt="gambarERD">
+</p>
+
 
 ## Data Analysis
 ### 1. Annual Customer Activity Growth
