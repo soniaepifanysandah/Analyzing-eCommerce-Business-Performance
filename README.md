@@ -28,7 +28,10 @@ Mengumpulkan insight dari analisis dan visualisasi terkait :
 
 ## Data Analysis
 ### 1. Annual Customer Activity Growth
-   
+
+<p align="center">
+   <img src="Grafik MAU dan New Customer.png" alt="grafik1">
+</p>
 
 
 
