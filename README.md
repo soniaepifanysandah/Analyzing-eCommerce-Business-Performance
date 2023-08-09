@@ -30,9 +30,13 @@ Mengumpulkan insight dari analisis dan visualisasi terkait :
 ### 1. Annual Customer Activity Growth
 
 <p align="center">
-   <img src="Grafik MAU dan New Customer.png" width = 600 px alt="grafik1">
+   <img src="MAU dan New Customer.png" width = 600 px alt="grafik1">
 </p>
 
-Pada tahun 2016 memiliki nilai yang rendah dibandingkan dengan 2017 dan 2018. Hal ini dikarenakan data yang tersedia pada tahun 2016 dimulai pada bulan September, sehingga menyebabkan hasil analisis di tahun 2016 memiliki perbedaan yang jauh dibandingkan dengan 2017 dan 2018. Berdasarkan grafik diatas, terlihat bahwa pelanggan aktif bulanan (MAU) dan jumlah pelanggan baru mengalami peningkatan.
+Pada tahun 2016 memiliki nilai yang rendah dibandingkan dengan 2017 dan 2018. Hal ini dikarenakan data yang tersedia pada tahun 2016 dimulai pada bulan September, sehingga menyebabkan hasil analisis di tahun 2016 memiliki perbedaan yang jauh dibandingkan dengan 2017 dan 2018. Berdasarkan grafik diatas, terlihat bahwa **customer aktif bulanan (MAU) dan jumlah customer baru mengalami peningkatan**.
+
+<p align="center">
+   <img src="Repeat Customer.png" width = 600 px alt="grafik2">
+</p>
 
 
