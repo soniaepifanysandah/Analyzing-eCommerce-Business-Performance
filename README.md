@@ -5,7 +5,7 @@
 **Visualization Tool :** Excel <br>
 
 ## Introduction
-Pada project ini, sebagai anggota tim Data Analytics di sebuah perusahaan eCommerce akan melakukan analisis terhadap aspek yang berkaitan dengan performa bisnis perusahaan. Mengukur performa bisnis sangatlah penting untuk melacak, memantau, dan menilai keberhasilan atau kegagalan dari suatu proses bisnis. Mengukur performa bisnis dapat dilakukan dengan memperhitungkan beberapa metrik bisnis. Oleh karena itu, metrik bisnis yang akan dianalisa pada project ini yaitu pertumbuhan pelanggan, kualitas produk, dan tipe pembayaran berdasarkan data history selama 3 tahun.
+Pada project ini, sebagai anggota tim Data Analytics di sebuah perusahaan eCommerce akan melakukan analisis terhadap aspek yang berkaitan dengan performa bisnis perusahaan. Mengukur performa bisnis sangatlah penting untuk melacak, memantau, dan menilai keberhasilan atau kegagalan dari suatu proses bisnis. Mengukur performa bisnis dapat dilakukan dengan memperhitungkan beberapa metrik bisnis. Oleh karena itu, metrik bisnis yang akan dianalisa pada project ini yaitu pertumbuhan customer, kualitas produk, dan tipe pembayaran berdasarkan data history selama 3 tahun.
 
 ## Objective
 Mengumpulkan insight dari analisis dan visualisasi terkait :
@@ -29,6 +29,8 @@ Mengumpulkan insight dari analisis dan visualisasi terkait :
 ## Data Analysis
 ### 1. Annual Customer Activity Growth
 
+Pertumbuhan aktivitas customer pada perusahaan eCommerce dapat dianalisis dari Monthly Active User (MAU), customer baru, customer yang melakukan repeat order, dan rata-rata order yang dilakukan oleh customer setiap tahun.
+
 <p align="center">
    <img src="MAU dan New Customer.png" width = 600 px alt="grafik1">
 </p>
@@ -39,5 +41,18 @@ Pada tahun 2016 memiliki nilai yang rendah dibandingkan dengan 2017 dan 2018. Ha
    <img src="Repeat Customer.png" width = 600 px alt="grafik2">
 </p>
 
-Pada tahun 2017 mengalami peningkatan yang drastis, hal ini jelas dikarenakan pada tahun 2016 data yang dimiliki hanya dari bulan September. Berbeda dengan MAU dan customer baru, jumlah customer yang repeat order mengalami penurunan.
+Pada tahun 2017 mengalami peningkatan yang drastis, hal ini jelas dikarenakan pada tahun 2016 data yang dimiliki hanya dari bulan September. Berbeda dengan MAU dan customer baru, **jumlah customer yang repeat order mengalami penurunan**.
+
+<p align="center">
+   <img src="Frekuensi Order.png" width = 600 px alt="grafik3">
+</p>
+
+Dari hasil analisa di atas, dapat dilihat bahwa sepanjang tahun 2016-2018 customer hanya melakukan order sebanyak 1 kali, artinya customer tidak melakukan repeat order.
+
+### 2. Annual Product Category Quality
+
+Performa bisnis eCommerce berkaitan erat dengan kualitas produk dan berhubungan juga dengan pendapatan/revenue perusahaan.
+
+
+
 
