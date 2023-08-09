@@ -2,7 +2,7 @@
 
 **Tool :** PostgreSQL <br>
 **Programming Language :** SQL <br>
-**Visualization Tool :** Tableau <br>
+**Visualization Tool :** Excel <br>
 
 ## Introduction
 Pada project ini, sebagai anggota tim Data Analytics di sebuah perusahaan eCommerce akan melakukan analisis terhadap aspek yang berkaitan dengan performa bisnis perusahaan. Mengukur performa bisnis sangatlah penting untuk melacak, memantau, dan menilai keberhasilan atau kegagalan dari suatu proses bisnis. Mengukur performa bisnis dapat dilakukan dengan memperhitungkan beberapa metrik bisnis. Oleh karena itu, metrik bisnis yang akan dianalisa pada project ini yaitu pertumbuhan pelanggan, kualitas produk, dan tipe pembayaran berdasarkan data history selama 3 tahun.
@@ -33,6 +33,6 @@ Mengumpulkan insight dari analisis dan visualisasi terkait :
    <img src="Grafik MAU dan New Customer.png" width = 600 px alt="grafik1">
 </p>
 
-
+Pada tahun 2016 memiliki nilai yang rendah dibandingkan dengan 2017 dan 2018. Hal ini dikarenakan data yang tersedia pada tahun 2016 dimulai pada bulan September, sehingga menyebabkan hasil analisis di tahun 2016 memiliki perbedaan yang jauh dibandingkan dengan 2017 dan 2018. Berdasarkan grafik diatas, terlihat bahwa pelanggan aktif bulanan (MAU) dan jumlah pelanggan baru mengalami peningkatan.
 
 
