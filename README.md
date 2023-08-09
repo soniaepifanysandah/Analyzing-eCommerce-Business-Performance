@@ -66,7 +66,7 @@ Performa bisnis eCommerce berkaitan erat dengan kualitas produk dan juga dengan 
 **Total cancel order meningkat** selama tahun 2016-2018.
 
 <p align="center">
-   <img src="picture/Top Product by Revenue.png" width = 600 px alt="grafik6">
+   <img src="picture/Top Product Revenue.png" width = 600 px alt="grafik6">
 </p>
 
 Kategori produk yang memberikan revenue terbanyak di setiap tahunnya berbeda-beda. Revenue yang dihasilkan oleh top product mengalami peningkatan setiap tahunnya dan tahun 2018 merupakan revenue tertinggi yang dihasilkan oleh top product, yaitu oleh product Health Beauty.
