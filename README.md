@@ -30,7 +30,7 @@ Mengumpulkan insight dari analisis dan visualisasi terkait :
 ### 1. Annual Customer Activity Growth
 
 <p align="center">
-   <img src="Grafik MAU dan New Customer.png" width = 600 px alt="grafik1">
+   <img src="Grafik MAU dan New Customer.png" width = 800 px alt="grafik1">
 </p>
 
 
