@@ -79,6 +79,12 @@ Kategori produk yang mengalami cancel terbanyak di setiap tahunnya berbeda-beda.
 
 ### 3. Annual Payment Type Usage
 
+Metode pembayaran yang digunakan customer dapat dianalisis dari metode pembayaran yang sering digunakan dan jumlah customer untuk setiap metode pembayaran.
 
+<p align="center">
+   <img src="picture/Most Payment Method.png" width = 600 px alt="grafik8">
+</p>
+
+Metode pembayaran yang menjadi favorit untuk digunakan adalah 
 
 
