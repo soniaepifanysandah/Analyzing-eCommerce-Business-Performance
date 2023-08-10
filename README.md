@@ -82,9 +82,15 @@ Kategori produk yang mengalami cancel terbanyak di setiap tahunnya berbeda-beda.
 Metode pembayaran yang digunakan customer dapat dianalisis dari metode pembayaran yang sering digunakan dan jumlah customer untuk setiap metode pembayaran.
 
 <p align="center">
-   <img src="picture/Most Payment Method.png" width = 600 px alt="grafik8">
+   <img src="picture/Payment Method.png" width = 600 px alt="grafik8">
 </p>
 
-Metode pembayaran yang menjadi favorit untuk digunakan adalah 
+**Metode pembayaran yang menjadi favorit untuk digunakan adalah Credit Card** dan yang paling sedikit digunakan adalah Debit Card. Metode pembayaran dengan Credit Card, Boleto, dan Debit Card mengalami peningkatan di setiap tahunnya, namun lain halnya dengan Voucher yang untuk penggunaannya di tahun 2018 mengalami penurunan. Penurunan penggunaan voucher ini mungkin terjadi karena pengurangan metode promosi menggunakan voucher. Hal yang menarik lainnya yaitu adanya peningkatan penggunaan Debit Card yang signifikan dari tahun 2017 ke tahun 2018, bahkan peningkatan ini lebih dari 100%. Peningkatan signifikan ini mungkin terjadi karena adanya promosi dengan kartu debit tertentu.
+
+## Summary
+1. Customer baru dan Monthly Active User (MAU) mengalami peningkatan di setiap tahunnya, namun customer tidak melakukan repeat order atau dapat dikatakan bahwa hanya melakukan order 1 kali.
+2. Kategori produk yang memberikan revenue terbanyak setiap tahunnya mengalami perubahan. Kondisi revenue perusahaan secara keseluruhan juga mengalami peningkatan di setiap tahunnya. Kondisi baik ini tidak berbanding lurus dengan kondisi product yang di cancel dimana product yang di cancel mengalami kenaikan di setiap tahunnya. Untuk kategori product yang dicancel juga mengalami perubahan di setiap tahunnya. Pada tahun 2018, produk Health Beaut memberikan revenue terbanyak, tetapi juga mengalami cancel terbanyak.
+3. Metode pembayaran yang paling banyak digunakan adalah Credit Card.
+ 
 
 
